@@ -9,4 +9,13 @@
 -
 #### Setting up the environment
 
-
+#Day 03
+-
+#### Basic Syntax
+- PHP Tags
+- PHP Statements
+- Comments in PHP
+- PHP Variables
+- PHP Constants
+- PHP Types
+- PHP Operators
