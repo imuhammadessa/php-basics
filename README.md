@@ -19,3 +19,12 @@
 - PHP Constants
 - PHP Types
 - PHP Operators
+
+#Day 04
+-
+#### Control flow
+- Conditional Statements
+- Switch Statement
+- Looping
+- Break and Continue
+
