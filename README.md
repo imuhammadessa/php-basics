@@ -28,3 +28,10 @@
 - Looping
 - Break and Continue
 
+#Day 05
+-
+#### Functions
+- Creating Functions
+- Function Arguments
+- Return Values from Functions
+- Include and Require
