@@ -5,6 +5,8 @@
 [VSCODE](https://code.visualstudio.com/) - 
 [BROWSER](https://www.google.com/intl/en_pk/chrome/)
 
-
+#Day 02 
+-
+#### Setting up the environment
 
 
