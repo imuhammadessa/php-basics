@@ -35,3 +35,10 @@
 - Function Arguments
 - Return Values from Functions
 - Include and Require
+
+#Day 06
+-
+#### Arrays
+- Types of Arrays
+- Arrays Functions
+- Multi-dimensional arrays
