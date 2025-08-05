@@ -55,3 +55,11 @@
 #### PHP String Manipulation
 - Creating and Manipulating
 - Using String Functions
+
+#Day 09
+-
+#### PHP Advanced techniques, Session & Cookies
+- Regular Expressions
+- Error Handling
+- Working with Date and Time
+- Sessions and Cookies
