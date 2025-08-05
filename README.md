@@ -49,3 +49,9 @@
 - Form Handling
 - POST and GET
 - Sanitizing User Input
+
+#Day 08
+-
+#### PHP String Manipulation
+- Creating and Manipulating
+- Using String Functions
