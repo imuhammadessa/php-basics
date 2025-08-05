@@ -76,3 +76,12 @@
 [Composer](https://getcomposer.org/) - 
 [Packgist](https://packagist.org/) - 
 [Medoo/Database](https://medoo.in/)
+
+#Day 11
+-
+#### PHP Router
+- Introduction to Routing
+- Basic Routing Concepts
+- Setting Up a Basic Router
+- Route Parameters, Segments & Methods
+
