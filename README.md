@@ -42,3 +42,10 @@
 - Types of Arrays
 - Arrays Functions
 - Multi-dimensional arrays
+
+#Day 07
+-
+#### PHP Forms & User Input
+- Form Handling
+- POST and GET
+- Sanitizing User Input
