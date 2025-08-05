@@ -63,3 +63,16 @@
 - Error Handling
 - Working with Date and Time
 - Sessions and Cookies
+
+#Day 10
+-
+#### PHP Composer
+- Composer
+- Installation and Setup
+- Composer.json
+- Autoload with composer
+- Install and Update vendors
+
+[Composer](https://getcomposer.org/) - 
+[Packgist](https://packagist.org/) - 
+[Medoo/Database](https://medoo.in/)
